@@ -1,48 +1,38 @@
-# 🎵 Apple Music App Review Analysis Mini Project
+# 📊 Beginner Data Projects
 
-This is a practice project focused on EDA and time-based analysis using Python. Created while learning data visualization and pandas resampling. The goal is to understand user engagement and satisfaction over time through visual exploration.
+Welcome to my **Beginner Data Projects** repository! This space is dedicated to practicing and building foundational data analysis projects using **Python** and popular data libraries like:
 
-
----
-## 🛠️ Tools & Libraries Used
-- `Pandas` – Data manipulation and grouping
-- `Matplotlib` – Visualization
-- `Datetime` – Handling time series data
----
-
-
-## 📂 Dataset
-The dataset contains user reviews for music applications, with the following key columns:
-- **app** – Name of the music application
-- **date** – Date of the review
-- **rating** – User rating (1–5 stars)
-- **review** – Review text (used for counting entries)
-- **country** – Country of the reviewer
+- `Pandas`
+- `NumPy`
+- `Matplotlib`
+- `Seaborn`
+- `Scikit-learn` (in future)
+- And more as I progress!
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## 🎯 Objective
 
-The following EDA steps were performed:
+The goal of this repository is to:
+- Sharpen data analysis skills through hands-on practice
+- Explore real-world datasets and extract insights
+- Build a portfolio of small, meaningful projects
+- Practice key Python libraries and visualization techniques
 
-- ✅ Checking the **shape** of the dataset (`df.shape`)
-- ✅ Using `.head()` and `.info()` to examine structure, column types, and null counts
-- ✅ Generating **summary statistics** with `.describe()`
-- ✅ **Converting** the `date` column from string to `datetime` format
-- ✅ Checking for **null values** and **duplicate rows**
-- ✅ Grouping and resampling data by **year** using `resample('Y')` for time-based analysis
-- ✅ Aggregating values using `groupby()` to count reviews per app and per country
+Each project is organized in its own folder and includes:
+- The dataset (CSV or link)
+- A Colab notebook 
+- A `README.md` file with project-specific details
 
 ---
 
-## 📊 Key Analysis & Visualizations
+## 🧰 Tools & Libraries Used
 
-- ⭐ **Rating Distributions**: Pie chart and histogram
-- 🧾 **App-wise Analysis**:
-  - Average rating per app
-  - Number of users (entries) per app
-- 📊 **Subplot Comparison**:
-  - Side-by-side plot showing **average rating vs. review count** over time
+- Python 3.x
+- Google Colab Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Open-source datasets (Kaggle, public repositories, etc.)
 
 ---
 
