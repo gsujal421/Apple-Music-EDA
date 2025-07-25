@@ -19,10 +19,7 @@ The goal of this repository is to:
 - Build a portfolio of small, meaningful projects
 - Practice key Python libraries and visualization techniques
 
-Each project is organized in its own folder and includes:
-- The dataset (CSV or link)
-- A Colab notebook 
-- A `README.md` file with project-specific details
+
 
 ---
 
