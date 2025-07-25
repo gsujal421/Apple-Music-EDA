@@ -1,4 +1,4 @@
-# 🎵 Apple Music App Review Analysis
+# 🎵 Apple Music App Review Analysis Mini Project
 
 This beginner-friendly data analysis project explores user reviews from various music apps (including Apple Music) using Python libraries like **Pandas** and **Matplotlib**. The goal is to understand user engagement and satisfaction over time through visual exploration.
 
