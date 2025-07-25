@@ -38,12 +38,9 @@ The following EDA steps were performed:
 ## 📊 Key Analysis & Visualizations
 
 - ⭐ **Rating Distributions**: Pie chart and histogram
-- 📈 **Average Rating Over Time (Yearly)** using time-based resampling
-- 📈 **Review Count Over Time (Yearly)** with resampled review volume
 - 🧾 **App-wise Analysis**:
   - Average rating per app
   - Number of users (entries) per app
-- 🌍 **Country-wise Review Counts**: Grouped by country and app
 - 📊 **Subplot Comparison**:
   - Side-by-side plot showing **average rating vs. review count** over time
 
